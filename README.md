@@ -7,7 +7,7 @@
 ## Installation
 
 ```
-npm i -g has-types
+npm i -g hastypes
 ```
 
 ## Usage

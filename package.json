@@ -1,6 +1,6 @@
 {
-  "name": "has-types",
-  "version": "1.0.1",
+  "name": "hastypes",
+  "version": "1.0.0",
   "description": "Check if a package has typescript typings from the command line",
   "main": "index.js",
   "bin": {
