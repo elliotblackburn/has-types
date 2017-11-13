@@ -1,0 +1,35 @@
+{
+  "name": "has-types",
+  "version": "1.0.0",
+  "description": "Check if a package has typescript typings from the command line",
+  "main": "index.js",
+  "bin": {
+    "hastypes": "bin/index.js"
+  },
+  "files": [
+    "bin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueHatbRit/has-types.git"
+  },
+  "keywords": [
+    "typescript",
+    "check",
+    "package",
+    "npm",
+    "has",
+    "types"
+  ],
+  "author": "Elliot Blackburn <elliot@lybrary.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlueHatbRit/has-types/issues"
+  },
+  "homepage": "https://github.com/BlueHatbRit/has-types#readme",
+  "dependencies": {
+    "meow": "3.7.0",
+    "request": "2.83.0",
+    "request-promise": "4.2.2"
+  }
+}
