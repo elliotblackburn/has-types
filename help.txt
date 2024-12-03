@@ -1,0 +1,8 @@
+Usage: has-types [--before=MM/DD/YYYY] <package-specifier>
+
+`package-specifier` must be a valid registry specifier according to `npm-package-arg`.
+
+ - see https://www.npmjs.com/package/npm-package-arg
+
+ Options:
+  `--before`: npm‘s `before` option. Must be a valid date.

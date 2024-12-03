@@ -1,0 +1,23 @@
+{
+	"root": true,
+
+	"extends": "@ljharb",
+
+	"rules": {
+		"max-statements": 0,
+	},
+
+	"overrides": [
+		{
+			"files": "pargs.mjs",
+			"extends": "@ljharb/eslint-config/node/20",
+			"rules": {
+				"max-lines-per-function": 0,
+			},
+		},
+		{
+			"files": "./bin.mjs",
+			"extends": "@ljharb/eslint-config/node/20",
+		},
+	]
+}
