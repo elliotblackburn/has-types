@@ -1,4 +1,4 @@
-Usage: has-types [--before=MM/DD/YYYY] <package-specifier>
+Usage: hastypes [--before=MM/DD/YYYY] <package-specifier>
 
 `package-specifier` must be a valid registry specifier according to `npm-package-arg`.
 
