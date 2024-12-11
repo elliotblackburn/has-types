@@ -51,7 +51,7 @@
 		"tmp": "^0.2.3"
 	},
 	"devDependencies": {
-		"@arethetypeswrong/cli": "^0.17.0",
+		"@arethetypeswrong/cli": "^0.17.1",
 		"@ljharb/eslint-config": "^21.1.1",
 		"@ljharb/tsconfig": "^0.2.2",
 		"@types/node": "^22.10.1",
